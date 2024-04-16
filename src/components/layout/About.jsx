@@ -41,16 +41,16 @@ const About = () => {
                 about app
               </div>
               <h2 className="lg:text-[52px] md:text-5xl text-3xl max-w-[560px]">
-                Discover CoinUp <br /> Cryptowallet Solution
+                Discover Harplabs <br /> Cryptowallet Solution
               </h2>
               <p className="text-grey75 leading-6 font-normal text-[16px]">
-                {`Experience the pinnacle of security and convenience with CoinUp's
+                {`Experience the pinnacle of security and convenience with Harplabs's
               Cryptowallet Solution. Our state-of-the-art wallet offers
               unparalleled protection for your digital assets, coupled with
               intuitive features designed to streamline your crypto experience.`}
               </p>
               <p className="text-grey75 leading-6 font-normal text-[16px]">
-                With CoinUp, you can securely store, manage, and transact with
+                With Harplabs, you can securely store, manage, and transact with
                 ease, empowering you to navigate the world of cryptocurrency
                 with confidence and peace of mind.
               </p>

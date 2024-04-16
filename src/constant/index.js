@@ -220,54 +220,54 @@ const testimonials = [
     img: Image_1,
     name: "John Anderson",
     account: "@john.anderson",
-    content: "CoinUp has completely transformed my crypto experience. With their user-friendly interface and top-notch security features,I feel confident managing my investments.I couldn't be happier with my decision to trust CoinUp with my digital assets.",
+    content: "Harplabs has completely transformed my crypto experience. With their user-friendly interface and top-notch security features,I feel confident managing my investments.I couldn't be happier with my decision to trust Harplabs with my digital assets.",
     date: "Apr 1, 2024"
   },
   {
     img: Image_2,
     name: "Michael Smith",
     account: "@msmith",
-    content: "I've tried several crypto platforms in the past, but none compare to CoinUp. The platform's security measures give me peace of mind knowing that my assets are safe. Plus, the intuitive design makes it easy for me to navigate and execute transactions.",
+    content: "I've tried several crypto platforms in the past, but none compare to Harplabs. The platform's security measures give me peace of mind knowing that my assets are safe. Plus, the intuitive design makes it easy for me to navigate and execute transactions.",
     date: "Mar 24, 2024"
   },
   {
     img: Image_3,
     name: "Emily Chen",
     account: "@e.chen",
-    content: "CoinUp has exceeded all my expectations. Customer support is excellent. Whenever I've had an issue or a question, the support team has been quick to respond and incredibly helpful. CoinUp has made managing my crypto portfolio a breeze.",
+    content: "Harplabs has exceeded all my expectations. Customer support is excellent. Whenever I've had an issue or a question, the support team has been quick to respond and incredibly helpful. Harplabs has made managing my crypto portfolio a breeze.",
     date: "Mar 16, 2024"
   }
 ];
 
 const questions = [
   {
-    question: "Is my personal information safe with CoinUp?",
-    response: "Absolutely. At CoinUp, we take the security and privacy of our users' personal information very seriously. We employ advanced encryption techniques to protect your data and adhere to strict security protocols to ensure it remains confidential at all times.",
+    question: "Is my personal information safe with Harplabs?",
+    response: "Absolutely. At Harplabs, we take the security and privacy of our users' personal information very seriously. We employ advanced encryption techniques to protect your data and adhere to strict security protocols to ensure it remains confidential at all times.",
     id: "first"
   },
   {
-    question: "What cryptocurrencies does CoinUp support?",
-    response: "CoinUp supports a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many more. You can find a full list of supported cryptocurrencies in your CoinUp account dashboard.",
+    question: "What cryptocurrencies does Harplabs support?",
+    response: "Harplabs supports a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many more. You can find a full list of supported cryptocurrencies in your Harplabs account dashboard.",
     id: "second"
   },
   {
-    question: "How can I deposit funds into my CoinUp account?",
-    response: "To deposit funds into your CoinUp account, simply navigate to the 'Receive' section of your account dashboard and follow the instructions provided. You can deposit funds using various methods, including bank transfers, credit/debit cards, and cryptocurrency transfers.",
+    question: "How can I deposit funds into my Harplabs account?",
+    response: "To deposit funds into your Harplabs account, simply navigate to the 'Receive' section of your account dashboard and follow the instructions provided. You can deposit funds using various methods, including bank transfers, credit/debit cards, and cryptocurrency transfers.",
     id: "third"
   },
   {
-    question: "Can I withdraw my funds from CoinUp at any time?",
-    response: 'Yes, you can withdraw your funds from CoinUp at any time. Simply navigate to the "Send" section of your account dashboard, select the desired withdrawal method, and follow the prompts to initiate the withdrawal process. Please note that withdrawal processing times may vary depending on the chosen method.',
+    question: "Can I withdraw my funds from Harplabs at any time?",
+    response: 'Yes, you can withdraw your funds from Harplabs at any time. Simply navigate to the "Send" section of your account dashboard, select the desired withdrawal method, and follow the prompts to initiate the withdrawal process. Please note that withdrawal processing times may vary depending on the chosen method.',
     id: "foorth"
   },
   {
-    question: "Does CoinUp charge any fees for transactions?",
-    response: 'CoinUp may charge fees for certain transactions, such as deposits, withdrawals, and trades. These fees help cover the costs associated with maintaining our platform and providing you with the best possible service. You can find detailed information about our fees in the "Fees" section of your account dashboard.',
+    question: "Does Harplabs charge any fees for transactions?",
+    response: 'Harplabs may charge fees for certain transactions, such as deposits, withdrawals, and trades. These fees help cover the costs associated with maintaining our platform and providing you with the best possible service. You can find detailed information about our fees in the "Fees" section of your account dashboard.',
     id: "fifth"
   },
   {
-    question: "Can I use CoinUp on my mobile device?",
-    response: 'Yes, CoinUp is fully compatible with mobile devices. You can access our platform through your mobile browser or download our mobile app from the App Store or Google Play Store. With CoinUp mobile, you can manage your investments and stay connected to the crypto market on the go.',
+    question: "Can I use Harplabs on my mobile device?",
+    response: 'Yes, Harplabs is fully compatible with mobile devices. You can access our platform through your mobile browser or download our mobile app from the App Store or Google Play Store. With Harplabs mobile, you can manage your investments and stay connected to the crypto market on the go.',
     id: "sixth"
   },
 ];
@@ -276,12 +276,12 @@ const downoalds = [
   {
     img: Apple,
     title: "Download for IOS",
-    content: "Download the CoinUp Wallet Mobile App from the App Store."
+    content: "Download the Harplabs Wallet Mobile App from the App Store."
   },
   {
     img: Android,
     title: "Download for Android",
-    content: "Download the CoinUp Wallet Mobile App from the Google Play."
+    content: "Download the Harplabs Wallet Mobile App from the Google Play."
   },
   {
     img: Chrome,
@@ -339,7 +339,7 @@ const footerLinks = [
     links: [
       { href: "https://www.google.com", label: "Whitepaper" },
       { href: "https://www.google.com", label: "Developer Portal" },
-      { href: "https://www.google.com", label: "CoinUp Foundation" }
+      { href: "https://www.google.com", label: "Harplabs Foundation" }
     ]
   },
   {

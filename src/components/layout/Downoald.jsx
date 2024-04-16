@@ -11,7 +11,7 @@ const Downoald = () => {
           <div></div>
           <div className="flex flex-col gap-10">
             <h2 className="lg:text-[52px] md:text-5xl text-3xl">
-              Get the CoinUp App and <br /> Dive Into Crypto
+              Get the Harplabs App and <br /> Dive Into Crypto
             </h2>
 
             <div className="flex flex-col gap-6">
@@ -42,7 +42,7 @@ const Downoald = () => {
                 bg_color={"bg-light-green"}
                 title={"Take Your Crypto Assets Anywhere!"}
                 text={
-                  "Unlock the power of crypto on the go with the CoinUp app. Seamlessly manage, trade, and track your digital assets from the palm of your hand, wherever you are. Download now and take control of your crypto."
+                  "Unlock the power of crypto on the go with the Harplabs app. Seamlessly manage, trade, and track your digital assets from the palm of your hand, wherever you are. Download now and take control of your crypto."
                 }
                 srcImg={Mockup_Earn}
                 imgStyle={

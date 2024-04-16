@@ -22,7 +22,7 @@ const Hero = () => {
             className="max-w-[720px] text-center flex flex-col justify-center items-center gap-6 relative">
             <div className="flex items-center justify-center flex-col">
               <h1 className=" lg:text-[72px] text-[36px] sm:text-[60px] leading-[112%]">
-                Safeguard Your Digital Wealth with CoinUp
+                Safeguard Your Digital Wealth with Harplabs
               </h1>
               <p className="text-grey75 max-w-[560px] mt-4 font-normal">
                 Manage your cryptocurrencies securely and effortlessly with our

@@ -18,7 +18,7 @@ const Questions = () => {
                 Your Burning Crypto Questions Answered
               </h2>
               <p className="font-normal text-grey75 leading-6 text-[16px] max-w-[580px]">
-                {`Explore our comprehensive FAQ section to find answers to all your burning questions about cryptocurrency and the CoinUp platform.`}
+                {`Explore our comprehensive FAQ section to find answers to all your burning questions about cryptocurrency and the Harplabs platform.`}
               </p>
             </div>
             <div className="flex flex-col gap-8">

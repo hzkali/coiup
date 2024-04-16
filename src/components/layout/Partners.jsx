@@ -11,7 +11,7 @@ const Partners = () => {
               Our Trusted Partners
             </h2>
             <p className="font-normal text-grey75 leading-6 text-[16px] max-w-[580px]">
-              {`Discover partners powering CoinUp's success. Through strategic
+              {`Discover partners powering Harplabs's success. Through strategic
               alliances, we ensure reliability, security, and innovation for
               your crypto journey.`}
             </p>

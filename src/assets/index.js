@@ -113,7 +113,7 @@ import Logo_7 from "./logos/Logo_7.svg";
 import Logo_8 from "./logos/Logo_8.svg";
 import Logo_9 from "./logos/Logo_9.svg";
 import Logo_10 from "./logos/Logo_10.svg";
-import CoinUp from "./logos/CoinUp.svg";
+import Harplabs from "./logos/Harplabs.svg";
 
 // Images
 
@@ -230,7 +230,7 @@ export {
   Logo_8,
   Logo_9,
   Logo_10,
-  CoinUp,
+  Harplabs,
 
   Image_1,
   Image_2,

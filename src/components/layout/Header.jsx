@@ -1,4 +1,4 @@
-import { close, CoinUp, menu } from "@/assets";
+import { close, Harplabs, menu } from "@/assets";
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import { motion, useScroll, useMotionValueEvent } from "framer-motion";
@@ -29,7 +29,7 @@ const Header = () => {
         <nav className="flex justify-between items-center lg:relative">
           <div className="nav-image w-[120px] static lg:absolute left-1/2 lg:-translate-x-1/2 cursor-pointer z-30">
             <a href="/">
-              <img src={CoinUp} />
+              <img src={Harplabs} />
             </a>
           </div>
           <div className="flex justify-between items-center lg:w-full">

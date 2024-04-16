@@ -57,7 +57,7 @@ const Testimonials = () => {
               </h2>
               <p className="max-w-[560px] text-grey20 font-normal text-center">
                 Discover what our valued community members have to say about
-                their experiences with CoinUp. Read firsthand testimonials that
+                their experiences with Harplabs. Read firsthand testimonials that
                 highlight the benefits and satisfaction our platform brings to
                 users.
               </p>

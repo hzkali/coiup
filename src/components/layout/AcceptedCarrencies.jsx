@@ -46,7 +46,7 @@ const AcceptedCarrencies = () => {
               Accepted Cryptocurrencies
             </h2>
             <p className="font-normal text-grey75 leading-6 text-[16px]">
-              Array of cryptocurrencies integrated into the CoinUp platform.
+              Array of cryptocurrencies integrated into the Harplabs platform.
               Explore accepted digital assets for storing and transacting with
               ease
             </p>
